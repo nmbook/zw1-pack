@@ -1,5 +1,7 @@
 Packs and unpacks Zwei!! [Zwei: The Arges Adventure] DAT archives.
 
+[Zwei: The Arges Adventure](http://visitarges.com/) is available on [Steam](http://store.steampowered.com/app/427680/Zwei_The_Arges_Adventure/), [GOG.com](https://www.gog.com/game/zwei_the_arges_adventure), and [The Humble Store](https://www.humblebundle.com/store/zwei-the-arges-adventure).
+
 Usage
 =====
 
